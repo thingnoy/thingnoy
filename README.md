@@ -48,6 +48,12 @@ I build and maintain one of Thailand's major banking apps — **ttb touch** — 
 
 ---
 
+### Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/thingnoy" alt="GitHub Contributions" />
+</p>
+
 <p align="center">
   <a href="mailto:boyskypart@gmail.com"><img src="https://img.shields.io/badge/Gmail-boyskypart-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/thingnoy"><img src="https://img.shields.io/badge/GitHub-thingnoy-181717?style=flat&logo=github&logoColor=white" /></a>
