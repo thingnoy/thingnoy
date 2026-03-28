@@ -45,7 +45,6 @@ I build and maintain one of Thailand's major banking apps — **ttb touch** — 
 - **iOS Developer** at Odd-e (Thailand) — 4 years building **ttb touch** banking app (Swift, UIKit, VIP architecture, React/Next.js)
 - **Outsource Programmer** at MFEC — Spring Boot microservices at **KBTG** and **SCB Bank** (Authorization, KYC, Push Notification, EDC Message Broker)
 - **Full-stack Developer** — Svelte/SvelteKit, NestJs, Vue.js across multiple companies
-- B.Sc. Computer Science, Udon Thani Rajabhat University (GPA 3.46)
 
 ---
 
