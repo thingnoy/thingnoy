@@ -1,6 +1,6 @@
 # Hi, I'm Supasai (Boy)
 
-iOS Developer building banking apps at scale | 8+ years in software development
+iOS Developer | 8+ years in software development
 
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)](#)
